@@ -1,3 +1,6 @@
+//Carlos Paredes-Progra4
+//Programa para crear un pdf.
+
 let pdf = require('html-pdf');
 
 let contenido = `
