@@ -1,6 +1,6 @@
-var pdf = require('html-pdf');
+let pdf = require('html-pdf');
 
-var contenido = `
+let contenido = `
 <h1>Esto es un test de html-pdf</h1>
 <p>Estoy generando PDF a partir de este código HTML sencillo</p>
 `;
